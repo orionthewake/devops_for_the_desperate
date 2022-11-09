@@ -7,7 +7,7 @@
   user:
     name: bender
     shell: /bin/bash
-    password: $6$OStSJfA6FA$ffSDaJBWfSpmnwlC6QWJwLG3PgZWQhPYUSezmRvSiUFpwSWy/57KuUuLg/4yGBpKx2TWYsPDz9Yq7nL2I2XT3/
+    password: $6$kQMqV39TkhRYsPbk$vGoai3v9zbJOx5u4iWlpesHsY4GuqUL7HyWwKoMMMX7dubV29ASY.xYLtVg13dFCv2hUs3GkNHc6T0i7fzMSd0
 
 - name: Assign 'bender' to the 'developers' group
   user:
