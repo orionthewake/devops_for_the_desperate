@@ -15,3 +15,4 @@ telnet-server/main
 # Custom
 #
 .password
+gtoken
